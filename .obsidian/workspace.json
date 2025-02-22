@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a298a5059d1870db",
+            "id": "c4c52295b28d8365",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Classes/04 - Lógica de Programação com R.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "04 - Lógica de Programação com R"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -158,21 +163,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1915f51e46ccaba",
+  "active": "c4c52295b28d8365",
   "lastOpenFiles": [
-    "README.md",
-    "Nova Nota.md",
+    "Classes/03 - SQL.md",
+    "Classes/04 - Lógica de Programação com R.md",
     "Classes/02 - Git, GitHub e SQL.md",
+    "Nota 2.md",
+    "Untitled.canvas",
+    "Topics/R/R.md",
     "Classes/01 - Introdução ao Visual Studio Code.md",
+    "Data Science.md",
+    "README.md",
+    "Numeros.md",
+    "Nota 3.md",
+    "Nova Nota.md",
     "Topics/SQL/SQL.md",
     "Topics/SQL/MySQL.md",
     "Topics/SQL/Bancos de Dados.md",
-    "Data Science.md",
     "Topics/Jupyter.md",
     "Topics/Visual Studio Code.md",
     "Topics/VS Code.md",
-    "Topics/R/R.md",
-    "Untitled.canvas",
     "Topics/GitHub.md",
     "Topics/Git.md",
     "Classes",
@@ -184,12 +194,7 @@
     "Topics/Deep Learning/tensorflow.md",
     "Topics/Statistics/Correlation.md",
     "Topics/Machine Learning/Deploy.md",
-    "Topics/Machine Learning/Classification.md",
-    "Topics/Statistics/Hypothesis Testing.md",
-    "Topics/Deep Learning/keras.md",
     "Topics/Deep Learning",
-    "Topics/Machine Learning/Regression.md",
-    "Topics/Machine Learning/Machine Learning.md",
     "Topics/Statistics",
     "Topics/Machine Learning",
     "Topics/SQL",

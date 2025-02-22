@@ -253,7 +253,7 @@ WHERE id = 2;
     dbListTables(conexao)
     
     # Realizar uma consulta
-    produtos <- dbGetQuery(conexao, "SELECT * FROM produtos")
+	    produtos <- dbGetQuery(conexao, "SELECT * FROM produtos")
     print(produtos)
     ```
     
